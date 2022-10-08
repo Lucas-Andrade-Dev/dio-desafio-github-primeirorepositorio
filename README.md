@@ -1,1 +1,1 @@
-# Repositorio do desafio sobre Git/GitHub da Dio.
+# Este Repositorio contem todos desafios de projetos que fiz na Dio
